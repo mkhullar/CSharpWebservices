@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment5", "Assignment5\Assignment5.csproj", "{E78C4248-9D2A-4F07-9D9F-BF0905979B26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetsWs", "..\..\..\..\..\Desktop\WSDeploy\TweetsWs\TweetsWs\TweetsWs.csproj", "{BBC6E01C-6C27-43B8-A67B-798CEB3544FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeadlinesWS", "..\..\..\..\..\Desktop\WSDeploy\HeadlinesWS\HeadlinesWS\HeadlinesWS.csproj", "{3AC73872-8EC5-455F-BF4D-175871303065}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetWeatherWs", "..\..\..\..\..\Desktop\WSDeploy\GetWeatherWs\GetWeatherWs\GetWeatherWs.csproj", "{B06D2603-9057-4DA4-9B4E-A9E9F4C06A1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Top10Words", "..\..\..\..\..\Documents\Top10Words\Top10Words\Top10Words.csproj", "{03A615F3-66CE-43F8-B371-A04BAAD626DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsWs", "..\..\..\..\..\Desktop\WSDeploy\SportsWs\SportsWs\SportsWs.csproj", "{8A9C454B-AE04-4F18-B26E-76594026307A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E78C4248-9D2A-4F07-9D9F-BF0905979B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E78C4248-9D2A-4F07-9D9F-BF0905979B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E78C4248-9D2A-4F07-9D9F-BF0905979B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E78C4248-9D2A-4F07-9D9F-BF0905979B26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC6E01C-6C27-43B8-A67B-798CEB3544FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC6E01C-6C27-43B8-A67B-798CEB3544FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC6E01C-6C27-43B8-A67B-798CEB3544FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC6E01C-6C27-43B8-A67B-798CEB3544FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC73872-8EC5-455F-BF4D-175871303065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC73872-8EC5-455F-BF4D-175871303065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC73872-8EC5-455F-BF4D-175871303065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC73872-8EC5-455F-BF4D-175871303065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B06D2603-9057-4DA4-9B4E-A9E9F4C06A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06D2603-9057-4DA4-9B4E-A9E9F4C06A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06D2603-9057-4DA4-9B4E-A9E9F4C06A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06D2603-9057-4DA4-9B4E-A9E9F4C06A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A615F3-66CE-43F8-B371-A04BAAD626DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A615F3-66CE-43F8-B371-A04BAAD626DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A615F3-66CE-43F8-B371-A04BAAD626DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A615F3-66CE-43F8-B371-A04BAAD626DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A9C454B-AE04-4F18-B26E-76594026307A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A9C454B-AE04-4F18-B26E-76594026307A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A9C454B-AE04-4F18-B26E-76594026307A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A9C454B-AE04-4F18-B26E-76594026307A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
